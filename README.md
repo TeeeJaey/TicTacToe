@@ -10,8 +10,8 @@ Some screenshots ...
 
 <img src="Draw.jpg" height="500" align="right"  />
 
-<br>
-### Yellow win --- Red win
+
+<p>### Yellow win --- Red win</p>
 <img src="YellowWins.jpg" height="500" align="left" />
 
 <img src="RedWins.jpg" height="500" align="right"  />
