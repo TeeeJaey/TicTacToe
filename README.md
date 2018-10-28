@@ -1,10 +1,10 @@
 # TicTacToe
 
 ## About the game
+<img src="androidStudio.png" height="200"  align="right" style="float:right" />
   - A basic two player Tic Tac Toe game.
   - Android app developed on Android studio 
 
-<img src="androidStudio.png" height="200"  align="right" style="float:right" />
 
 ## Some screenshots ...
 ### Start --- Draw
