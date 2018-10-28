@@ -4,7 +4,7 @@
   - A basic two player Tic Tac Toe game.
   - Android app developed on Android studio 
 
-<img src="androidStudio.jpg" height="200"  style="float:right" />
+<img src="androidStudio.png" height="200"  style="float:right" />
 
 ## Some screenshots ...
 ### Start --- Draw
